@@ -1,3 +1,3 @@
 # my-demo
-just practicing 
+just practicing.
 Author - Nikita Adsule
